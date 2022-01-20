@@ -1,0 +1,2 @@
+# Space-1-
+Its a project for my final year high school assignmen. Its a project that I named space builder.I made this game with the help of python and python library called pygame.Its only a frontend that works. I have not set the backend part. Overall its was a great learning experience for me and very good programming experience.I got to know a lot about making a working application. It was a lot of fun. And also it was the best project submitted in my class.
